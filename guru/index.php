@@ -36,7 +36,7 @@ WHERE tb_mengajar.id_guru='$data[id_guru]' AND tb_thajaran.status=1 ");
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Guru | Aplikasi Presensi</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
-	<link rel="icon" href="../assets/img/icon.ico" type="image/x-icon"/>
+	<link rel="icon" href="sma nebal.jpg" type="image/x-icon"/>
 
 	<!-- Fonts and icons -->
 	<script src="../assets/js/plugin/webfont/webfont.min.js"></script>
