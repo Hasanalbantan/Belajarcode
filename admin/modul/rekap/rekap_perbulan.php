@@ -47,14 +47,14 @@ foreach ($walikelas as $walas)
 <table width="100%">
  	<tr>
  		<td>
- 			<img src="sma nebal.jpg" width="130">
+ 			<img src="../assets/img/mts.png" width="130">
  		</td>
  		<td>
  			
  				
  				<h1>
- 					ABSENSI SISWA <br>
- 					<small> SMAN 1 BALARAJA</small>
+ 					ABSESNSI SISWA <br>
+ 					<small> MTs INSAN KREASI</small>
  				</h1>
  		<!-- 		<hr>
  				<em>

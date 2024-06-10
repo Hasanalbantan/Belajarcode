@@ -21,13 +21,13 @@
 										<center>
 											<img src="../assets/img/logo1.png" width="100">
 											<br>
-											<b>SMAN 1 BALARAJA</b>
+											<b>MTs NEGERI PATI</b>
 										</center>
 									</div>
 									<div class="card-category">
 										<center>
-Kp. Talaga Sari Km 23 Kec. Balaraja Kab. Tangerang Kode Pos 15610
-	<br>Email : Nebal1@gmail.com Telp.08123456789
+Jl. Winong - Pucakwangi Km 01 Kec. Winong Kab. Pati Kode Pos 59181
+	<br>Email : mtsnegeripati@gmail.com Telp.081222333444
 										</center>
 									</div>
 								

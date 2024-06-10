@@ -60,7 +60,7 @@ session_start();
                         <div class="page-inner py-5">
                             <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
                                 <div>
-                                    <h2 class="text-white pb-2 fw-bold">SMAN 1 BALARAJA</h2>
+                                    <h2 class="text-white pb-2 fw-bold">MTs Insan Kreasi</h2>
                                     <h5 class="text-white op-7 mb-2">Aplikasi Absensi Berbasis Web</h5>
                                 </div>
 
@@ -123,7 +123,7 @@ session_start();
     <footer class="footer">
         <div class="container">
             <div class="copyright ml-auto">
-                &copy; <?php echo date('Y');?> Absensi Siswa SMAN 1 Balaraja (<a href="index.php">Amelia Purnama </a>
+                &copy; <?php echo date('Y');?> Absensi Siswa MTs. Insan Kreasi (<a href="index.php">Imas Andriyani </a>
                 | 2021)
             </div>
         </div>

@@ -63,12 +63,12 @@ include 'config/db.php';
                         <div class="page-inner py-5">
                             <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
                                 <div>
-                                    <h2 class="text-white pb-2 fw-bold">SMAN 1 BALARAJA</h2>
+                                    <h2 class="text-white pb-2 fw-bold">MTs INSAN KREASI</h2>
                                     <!-- <h5 class="text-white op-7 mb-2">Absen Lebih mudah gunakan Aplikasi Absensi</h5> -->
                                 </div>
                                 <div class="ml-md-auto py-2 py-md-0">
-                                    <a href="#" class="btn btn-white btn-border btn-round mr-2">Kp. Balaraja RT002/003
-                                        Ds. Balaraja Kec. Balaraja Kab. Tangerang 15610 Prov. Banten</a>
+                                    <a href="#" class="btn btn-white btn-border btn-round mr-2">Kp. Ciapuas RT/RW 07/02
+                                        Ds. Batok Kec. Tenjo Kab. Bogor 16370 Prov. Jawa Barat</a>
                                     <!-- <a href="view/siswa.php" class="btn btn-secondary btn-round">Ajukan Izin</a> -->
                                 </div>
                             </div>

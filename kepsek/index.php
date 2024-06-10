@@ -236,7 +236,7 @@ $data = mysqli_fetch_array($sql);
 		<footer class="footer">
 				<div class="container">
 					<div class="copyright ml-auto">
-						&copy; <?php echo date('Y');?> Absensi Siswa SMAN  1 Balaraja (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
+						&copy; <?php echo date('Y');?> Absensi Siswa MTs Negeri Pati (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
 					</div>				
 				</div>
 			</footer>
