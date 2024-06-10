@@ -44,7 +44,7 @@ include 'config/db.php';
                         <img src="./assets/img/logo1.png" width="100">
                     </span>
                     <span class="login100-form-title p-b-26">
-                        MTs NEGERI PATI
+                        MTS BALARAJA
                     </span>
 
                     <div class="wrap-input100 validate-input">
